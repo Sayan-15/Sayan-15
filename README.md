@@ -1,9 +1,7 @@
 - Hi, I’m @Sayan-15
-- I’m interested in python projects and devekopment.
+- I’m interested in python projects and development.
 - Have hands on experience of Google Clouds on Qwiklabs, and microsoft Azure on Azure AI Classroom.
-- Currently learning some web development stuff.
-- Also had completed JPMorgan Chase- Software Engineering Virtual Experience.
-- Currently looking for some projects and internships  .
+- Currently looking for some internships+ PPO .
 
 
 <!---
