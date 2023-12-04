@@ -3,7 +3,7 @@
 - Have hands on experience of Google Clouds on Qwiklabs, and microsoft Azure.
 - Currently looking for some internships+ PPO .
 - Checkout my linkedin for more details about me.
-### demo video
+### LinkedIn
 https://www.linkedin.com/in/sayandeep-ghosh-py/
 
 <!---
