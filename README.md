@@ -1,7 +1,5 @@
 - Hi, I’m @Sayan-15
-- I’m interested in data related domains.
-- Have hands on experience of Google Clouds on Qwiklabs, and microsoft Azure.
-- Currently looking for some internships+ PPO .
+- I’m interested in product solutioning and data related domains.
 - Checkout my linkedin for more details about me.
 ### LinkedIn
 https://www.linkedin.com/in/sayandeep-ghosh-py/
